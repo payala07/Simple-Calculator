@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
-![Screenshot 2022-06-26 at 23-48-34 Calculator](https://user-images.githubusercontent.com/48588622/175835021-bb7fd226-e927-4024-a445-e824e6a0f6e2.png)
+![Screenshot 2022-06-26 at 23-48-34 Calculator](https://user-images.githubusercontent.com/48588622/175835021-bb7fd226-e927-4024-a445-e824e6a0f6e2.png)  
+![Screenshot 2022-06-26 at 23-50-35 Calculator](https://user-images.githubusercontent.com/48588622/175835059-8e416087-6892-4d53-b898-acf682ede853.png)
 
 
 ## Development server
